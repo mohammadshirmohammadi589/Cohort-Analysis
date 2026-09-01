@@ -8,8 +8,7 @@ The analysis combines **Cohort Analysis**, **Retention Analysis**, **Revenue Ana
 
 The main goal is to translate transactional data into actionable business insights that can support customer retention and marketing decisions.
 
----
-
+----
 ## 🎯 Business Questions
 
 This project focuses on the following questions:
